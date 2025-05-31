@@ -7,7 +7,7 @@ const Footer = () => {
         <div class="md:flex md:justify-between font-poppins">
           <div class="mb-6 md:mb-0">
               <a href="./components/HomePage.jsx" class="flex items-center">
-                  <img src="/fruit salad-cuate.svg" class="h-8 me-3 rounded-full" alt="FlowBite Logo" />
+                  <img src="/fruit salad-cuate.svg" class="h-8 me-3 rounded-full" alt="Cookify Logo" />
                   <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Cookify</span>
               </a>
           </div>
